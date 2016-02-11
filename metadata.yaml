@@ -1,0 +1,30 @@
+_repo: A-Select-Collection-of-Old-English-Plays-Originally-Published-by-Robert-Dodsley-in-the-year-1__49550
+contributor:
+  creator:
+    editor:
+      agent_name: Hazlitt, William Carew
+      alias: Hazlitt, W. Carew (William Carew)
+      birthdate: 1834
+      deathdate: 1913
+      gutenberg_agent_id: '4300'
+      url: http://www.gutenberg.org/2009/agents/4300
+      wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'A Select Collection of Old English Plays
+
+  Originally Published by Robert Dodsley in the year 1744'
+url: http://www.gutenberg.org/ebooks/49550
