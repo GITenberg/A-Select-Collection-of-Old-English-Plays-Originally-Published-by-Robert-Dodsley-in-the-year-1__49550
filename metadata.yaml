@@ -1,4 +1,5 @@
 _repo: A-Select-Collection-of-Old-English-Plays-Originally-Published-by-Robert-Dodsley-in-the-year-1__49550
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '4300'
       url: http://www.gutenberg.org/2009/agents/4300
       wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+covers:
+- cover_type: archival
+  image_path: 49550-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49550#A-Select-Collection-of-Old-English-Plays-Originally-Published-by-Robert-Dodsley-in-the-year-1_
 gutenberg_issued: '2015-07-30'
 gutenberg_type: Text
 identifiers:
